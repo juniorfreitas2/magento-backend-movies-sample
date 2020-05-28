@@ -13,7 +13,7 @@
     "type": "magento2-module",
     "autoload": {
         "psr-4": {
-          "juniorfreitas\\movie\\": ""
+          "Juniorfreitas\\Movie\\": ""
         },
         "files": [
           "registration.php"

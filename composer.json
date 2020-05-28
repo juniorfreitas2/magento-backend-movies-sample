@@ -10,6 +10,7 @@
             "url": "https://github.com/smart-age-solutions/magento-backend-movies-sample"
         }
     ],
+    "type": "magento2-module",
     "autoload": {
         "psr-4": {
           "juniorfreitas\\movie\\": ""
